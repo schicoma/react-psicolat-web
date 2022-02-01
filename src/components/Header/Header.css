@@ -1,0 +1,48 @@
+.Header {
+    background-color: #f5cc6e;
+}
+
+.Header .Header__navbar {
+    padding: 0 40px;
+    display: flex;
+    align-items: center;
+    height: 80px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.Header .Header__navbar-menu {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.Header .Header__navbar-menu-item {
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    margin-right: 40px;
+}
+
+.Header .Header__navbar-menu-options {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: auto;
+}
+
+.Header .Header__navbar-menu-options-item {
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    margin-left: 24px;
+}
+
+.Header .Header__navbar-logo {
+    width: auto;
+    height: 18px;
+    margin-top: 5px;
+    margin-right: 60px;
+}

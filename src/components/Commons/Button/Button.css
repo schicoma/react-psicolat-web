@@ -1,0 +1,19 @@
+.Button {
+    height: 50px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: 600;
+    border: none;
+    border-radius: 32px;
+}
+
+.Button--primary {
+    color: #fff;
+    background: #6e4ddd;
+}
+
+.Button--secondary {
+    color: #6e4ddd;
+    background: transparent;
+    border: solid 3px #6e4ddd;
+}
