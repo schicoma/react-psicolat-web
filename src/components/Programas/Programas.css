@@ -1,0 +1,82 @@
+.Programas {
+    background: #ea81ef;
+    margin: 100px 0;
+}
+
+.Programas .container {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+}
+
+.Programas .Programas__title h1 {
+    margin: 50px auto 0;
+    width: 900px;
+    text-align: center;
+    color: #fff;
+    font-size: 72px;
+    font-weight: bold;
+}
+
+.Programas .Programas__detail {
+    display: flex;
+    margin-top: 40px;
+    margin-bottom: 90px;
+}
+
+.Programas .Programas__detail-information {
+    flex-basis: 50%;
+}
+
+.Programas .Programas__detail-information-title {
+    color: #fff;
+    font-size: 60px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 700px;
+}
+
+.Programas .Programas__detail-information-list {
+    list-style-type: none;
+    margin-bottom: 60px;
+}
+
+.Programas .Programas__detail-information-list-item {
+    color: #fff;
+    font-size: 30px;
+}
+
+.Programas .Programas__detail-information-list-item svg {
+    margin-right: 10px;
+    color: #f5cc6e;
+}
+
+.Programas .Programas__detail-information-button {
+    width: 380px;
+    height: 95px;
+    background-color: #fff;
+    color: #6e4ddd;
+    border-radius: 32px;
+    font-size: 30px;
+    font-weight: bold;
+    border: none;
+}
+
+.Programas .Programas__detail-image {
+    flex-basis: 50%;
+}
+
+.Programas .Programas__detail-image-container {
+    width: 560px;
+    height: 580px;
+}
+
+.Programas .Programas__detail-image img {
+    object-fit: cover;
+    box-shadow: 0px 6px 7px 0px grey;
+    border-radius: 64px;
+    width: 100%;
+    height: 100%;
+}
