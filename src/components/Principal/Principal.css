@@ -1,11 +1,12 @@
 .Principal {
-    display: flex;
-    flex-direction: row;
     background-color: #f5cc6e;
-    width: 100%;
-    max-width: 1400px;
+}
+
+.Principal section {
     padding: 42px;
+    display: flex;
     margin: 0 auto;
+    max-width: 1400px;
 }
 
 .Principal .Principal__information {
