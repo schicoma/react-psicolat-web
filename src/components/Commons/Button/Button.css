@@ -1,7 +1,7 @@
 .Button {
-    height: 50px;
-    padding: 10px 20px;
-    font-size: 18px;
+    height: 40px;
+    padding: 5px 15px;
+    font-size: 14px;
     font-weight: 600;
     border: none;
     border-radius: 32px;
@@ -15,5 +15,5 @@
 .Button--secondary {
     color: #6e4ddd;
     background: transparent;
-    border: solid 3px #6e4ddd;
+    border: solid 2px #6e4ddd;
 }

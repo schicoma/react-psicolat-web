@@ -9,6 +9,6 @@ This landing page was made with academical purposes.
 ## Tools
 
 - React.js
-- NPM
+- npm
 - HTML5 / CSS3
 - VSCode
